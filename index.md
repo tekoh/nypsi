@@ -2,7 +2,7 @@
 
 ## invite to your server
 
-<a href="http://invite.nypsi.xyz" target="_blank">click here</a> to get started by inviting
+<a href="https://nypsi.xyz/invite" target="_blank">click here</a> to get started by inviting
 **nypsi** to your server
 
 ## FAQ
