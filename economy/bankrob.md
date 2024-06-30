@@ -1,16 +1,16 @@
 # bankrob
 
-## banks
+bankrob allows you to rob from the nypsi bank
 
-different banks have different default balance, the higher prestige you are, the more banks you will
-unlock with each having a higher default balance
+## nypsi bank is closed
 
-## no available banks
-
-this means that all banks' (available to you) balances are too low to be robbed, so you cannot
-bankrob. to get past this, progress to a higher prestige to unlock more banks
+this means that the bank currently doesn't have enough funds to be robbed
 
 ## lawyers
 
-lawyers help you to not lose as much money as you would. when robbing players however, you will lose
-no money if you fail.
+lawyers prevent you from losing as much money when you rob the bank
+
+## how does the bank get its money
+
+the nypsi bank gets its money from tax when users sell items, use offers, auctions or paying each
+other
