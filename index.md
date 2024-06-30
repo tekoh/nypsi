@@ -1,18 +1,23 @@
-# nypsi documentation
+# nypsi
 
-## invite to your server
+## getting started
+
+### invite to your server
 
 <a href="https://nypsi.xyz/invite" target="_blank">click here</a> to get started by inviting
 **nypsi** to your server
 
+### setting up custom prefixes
+
+nypsi supports the use of both slash commands and prefix commands, although less functionality is
+available through slash commands
+
+if you want to completely disable prefix commands, you can with /settings server slash-only
+
+however for custom prefixes, you can set up multiple prefixes in your server. use the `$prefix`
+command to add/remove prefixes
+
 ## FAQ
-
-### my server does not qualify for the pings command
-
-this means that the server owner isn't an active nypsi user, to fix this, have the owner run some
-commands, if this isn't possible, send the owner some nypsi money with `/pay`.
-
-if you need further help, feel free to join the [support server](https://discord.gg/hJTDNST)
 
 ### when will karmashop be open
 
@@ -29,22 +34,6 @@ for you to enable
 ```
 /settings me notifications
 ```
-
-### how do i clear my username history?
-
-run the following command to clear your username history
-
-```
-$un -clear
-```
-
-run the following command to clear your avatar history
-
-```
-$avh -clear
-```
-
-you can use `$toggletracking` to disable username/avatar tracking
 
 ### how do i disable certain commands
 
@@ -66,8 +55,3 @@ allowed within your discord server settings
 ```
 /settings server slash-only
 ```
-
-### whats with the lowercase?
-
-i (max), personally love how lowercase text looks. which is why nypsi is almost entirely lowercase
-(no this will not change u loser). it also gives a bit of a unique aesthetic to nypsi.
